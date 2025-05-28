@@ -1,0 +1,12 @@
+---
+title: "User guide"
+output: html_document
+date: "2025-05-28"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### User guide
+
