@@ -1,5 +1,5 @@
 ---
-title: "User guide"
+title: "Getting started"
 output: html_document
 date: "2025-05-28"
 ---
